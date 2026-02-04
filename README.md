@@ -166,7 +166,7 @@ Il gatto gira lentamente la testa e sbatte le palpebre.
 
 | Operazione | Costo Approssimativo |
 |------------|---------------------|
-| Generazione immagine | ~$0.01-0.05 |
+| Generazione immagine | ~$0.15 |
 | Video 5s senza audio | ~$0.35 |
 | Video 5s con audio | ~$0.70 |
 | Video 10s senza audio | ~$0.70 |
